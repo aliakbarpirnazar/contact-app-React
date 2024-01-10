@@ -5,7 +5,7 @@ function Header() {
     <div className={Styles.container}>
       <h1>Contact App</h1>
       <p>
-        <a href="https://aliakbar.ir">Aliakbar</a> | React.js
+        <a href="https://aliakbar.ir">Aliakbar</a> | React.js by Vite
       </p>
     </div>
   );
